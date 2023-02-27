@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+#canvas {
+  position: relative;
+  background-color: #ccddcc;
+  margin: 1em auto;
+}
+.ball {
+  background-color: black;
+  position: absolute;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+
+/*# sourceMappingURL=/src.a2b27638.css.map */
